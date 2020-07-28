@@ -1,0 +1,107 @@
+﻿@model freelancerPlatform.Models.FSViewModel
+
+@{
+    ViewBag.Title = "Home Page";
+}
+<br />
+<br />
+
+<div >
+    <img src="@Url.Content("~/Content/images/freelancer2.jpg")" alt="..." height="90%" width="100%" style="overflow: auto;margin-top:10px;z-index:-1">
+
+    <div style="z-index:1;position:absolute;top:200px;left:80px;width:600px">
+        <p style="color:red">@ViewBag.msg</p>
+        <h1><strong>Find your perfect Freelancer/Service</strong></h1>
+        @using (Html.BeginForm(FormMethod.Post))
+        {
+            <div class="col-lg-6">
+                <input id="myInput" type="text" class="form-control" style="background-color:black;color:white" name="search" placeholder="search service or freelancer..." list="datalist1">
+
+            </div>
+            <div class="col-lg-6">
+
+            <input type="submit" class="btn btn-success" value=" Search">
+                </div>
+       }
+    <datalist class="list-group" id="datalist1">
+        @foreach (var fr in Model.Freelancers)
+        {
+            <option> @fr.FullName</option>
+
+        }
+        @foreach (var srs in Model.Services)
+        {
+        <option> @srs.ServiceName</option>
+        }
+        
+    </datalist>
+    </div>
+</div>
+<br />
+<div class="container">
+    <h1 style="text-align:center"> <strong> How It Works!</strong></h1>
+    <div class="row">
+        <div class="col-lg-3" style="text-align:center">
+            <img src="@Url.Content("~/Content/images/freelancer.jpg")" alt="..." height="100px" width="100px" style="overflow: auto;margin-top:10px;border-radius:50%">
+            <br />
+            <h3><strong>Become a freelancer (make money!)</strong></h3>
+        </div>
+        <div class="col-lg-3" style="text-align:center">
+            <img src="@Url.Content("~/Content/images/done.jpg")" alt="..." height="100px" width="100px" style="overflow: auto;margin-top:10px;border-radius:50%">
+            <br />
+            <h3><strong>Get ur projects done!</strong></h3>
+        </div>
+        <div class="col-lg-3" style="text-align:center">
+            <img src="@Url.Content("~/Content/images/interation.jpg")" alt="..." height="100px" width="100px" style="overflow: auto;margin-top:10px;border-radius:50%">
+            <br />
+            <h3><strong>Interaction!</strong></h3>
+        </div>
+        <div class="col-lg-3" style="text-align:center">
+            <img src="@Url.Content("~/Content/images/pay.jpg")" alt="..." height="100px" width="100px" style="overflow: auto;margin-top:10px;border-radius:50%">
+            <br />
+            <h3><strong>Simple Payment!</strong></h3>
+        </div>
+
+    </div>
+    <div class="row">
+        <div class="col-lg-3" style="text-align:center">
+            <p>Register ur skill set at #NoDrive and work for projects while sitting at home n making money .It's simple as its sounds!</p>
+        </div>
+        <div class="col-lg-3" style="text-align:center">
+            <p>Search for the best technicians with appropriate skills for ur project and get it done within a few days at reasonable cost.</p>
+        </div>
+        <div class="col-lg-3" style="text-align:center">
+            <p>
+                Once you are connected for your project you can Interact with them and see your project being crafted !
+            </p>
+        </div>
+        <div class="col-lg-3" style="text-align:center">
+            <p>Simply add your price for your work and get paid by customer once project is done!</p>
+        </div>
+    </div>
+    <div class="row">
+        <h1 style="text-align:center"> <strong>Our Serices</strong></h1>
+        @{ 
+            //var ser=Model.GroupBy(p => p.Services.Select(s=>s.ServiceName)).Select(g=>g.First()).ToList();
+            
+        }
+        @foreach (var service in Model.Services)
+        {
+                <div class="col-lg-3">
+                    <div class="card text-white" style="width: 20rem; background-color:white; border:solid 2px white; border-radius:30px;margin-top:10px">
+                        <div class="card-img-overlay">
+                            <img src="@Url.Content(service.Image)" class="card-img-top" alt="..." height="160vw" width="100%" style="overflow: auto; border-radius:30px">
+                            <div style="text-align:center;padding-top:0px">
+                                <h3 class="card-title" style="color:crimson!important">
+                                    @Html.ActionLink(service.ServiceName, "Home", "Customers", new { id = service.SerId }, null)
+                                </h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            
+        }
+    
+</div>
+
+

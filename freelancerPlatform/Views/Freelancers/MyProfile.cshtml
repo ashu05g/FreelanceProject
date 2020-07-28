@@ -1,0 +1,80 @@
+﻿
+@model freelancerPlatform.Models.Freelancer
+
+@{
+    ViewBag.Title = "My Profile";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>My Profile</h2>
+<br />
+
+
+<button class="btn btn-success" onclick="location.href='@Url.Action("Modify", "Freelancers",new {id=Model.FId })'" style="margin-bottom:20px">Modify Details</button>
+<button class="btn btn-success" onclick="location.href='@Url.Action("AddSpecialisation", "Freelancers",new {id=Model.FId })'" style="margin-bottom:20px;margin-left:20px;">Add Specialisation</button>
+
+<div class="container">
+    <div class="col-lg-5" style="border:1px solid ghostwhite">
+        <img src="@Url.Content(Model.Image)" alt="..." height="200vw" width="200vw" style="overflow: auto; border-radius:50px;margin-top:10px">
+
+        <h2 style="font-weight:bold">@Model.FullName</h2>
+
+        <div class="row">
+
+            <div class="col-lg-6"><p>From</p></div>
+            <div class="col-lg-5"><p style="font-weight:bold">@Model.City</p></div>
+            <div class="col-lg-1"></div>
+
+        </div>
+        <div class="row">
+
+            <div class="col-lg-6"><p>Phone Number</p></div>
+            <div class="col-lg-5"> <p style="font-weight:bold">@Model.Phone</p></div>
+            <div class="col-lg-1"></div>
+
+        </div>
+        <div class="row">
+
+            <div class="col-lg-6"><p>Email</p></div>
+            <div class="col-lg-5"><p style="font-weight:bold">@Model.Email</p></div>
+            <div class="col-lg-1"></div>
+
+        </div>
+        <hr />
+        <strong>About</strong>
+        <p>@Model.About</p>
+        <hr />
+        <p><strong>Specialisations</strong></p>
+        @foreach (var srs in Model.Services)
+        {
+            <button class=" btn btn-sm btn-success" onclick="location.href='@Url.Action("Home", "Customers",new { id = srs.SerId })'">@srs.ServiceName</button>
+        }
+        <p></p>
+    </div>
+
+    <div class="col-lg-1"></div>
+    <div class="col-lg-5">
+        <h3 style="font-weight:bold">@Model.FullName's Gigs</h3>
+        @foreach (var sps in Model.Specialisations)
+        {
+            <div class="col-lg-6">
+                <div class="card text-white" style="width: 22rem; background-color: cadetblue; border:solid 2px white; border-radius:30px">
+                    <img src="@Url.Content(sps.Image)" class="card-img-top" alt="..." height="160vw" width="100%" style="overflow: auto; border-radius:30px">
+                    <div style="padding:1vw">
+                        <h5 class="card-title" style="color:crimson!important">
+                            @Html.ActionLink(Model.FullName, "Details", "Customers", new { id = sps.Id }, new { @style = "color:#3D0781;font-weight:bold;font-size:20px" })
+                        </h5>
+
+                        <p>@sps.Name</p>
+                        <p>@sps.About</p>
+                        <hr />
+                        <p style="text-align:right">Price: &#8377; @sps.Price</p>
+                    </div>
+                </div>
+            </div>
+        }
+
+    </div>
+</div>
+
+
+

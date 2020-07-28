@@ -1,0 +1,34 @@
+﻿
+@model IEnumerable<freelancerPlatform.Models.Freelancer>
+
+@{
+    ViewBag.Title = "Freelancers";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Freelancers</h2>
+@if (!Model.Any())
+{
+    <p>We don't have any Freelancers yet.</p>
+}
+else
+{
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th>Freelancer</th>
+                <th>Discount Rate</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var freelancer in Model)
+            {
+                <tr>
+                    <td>@Html.ActionLink(freelancer.FullName, "Details", "Customers", new { id = freelancer.FId }, null)</td>
+
+                 </tr>
+            }
+        </tbody>
+    </table>
+}
+

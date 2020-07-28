@@ -1,0 +1,80 @@
+﻿@model freelancerPlatform.Models.FreelancersSpecViewModel
+
+@{
+    ViewBag.Title = "addSpecilisation";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Add Specilisation</h2>
+
+
+@using (Html.BeginForm("AddSpecialisation", "Freelancers", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+    <h4>Freelancer</h4>
+    <hr />
+
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <div class="form-group">
+        @Html.LabelFor(model => model.specialisation.Name, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            
+            
+            @Html.DropDownListFor(m=>m.specialisation.Name,(SelectList) ViewData["Service"],"select service",new { @style = "color:black" ,@class= "form-control" })
+
+            @Html.ValidationMessageFor(model => model.specialisation.Name, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.specialisation.About, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.specialisation.About, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.specialisation.About, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.specialisation.Price, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.specialisation.Price, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.specialisation.Price, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.specialisation.Days, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.specialisation.Days, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.specialisation.Days, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.specialisation.Description, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.specialisation.Description, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.specialisation.Description, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.specialisation.Image, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10 " style="color:white">
+            @Html.TextBoxFor(model => model.specialisation.ImageFile, new { type = "file", @style = "color:white" })
+            @Html.ValidationMessageFor(model => model.specialisation.Image, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <!-- Html.HiddenFor(m=>m.freelancer.FId) -->
+    @{ 
+        Model.specialisation.FId = Model.freelancer.FId;
+    }
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Add" class="btn btn-default" />
+        </div>
+    </div>
+</div>
+}

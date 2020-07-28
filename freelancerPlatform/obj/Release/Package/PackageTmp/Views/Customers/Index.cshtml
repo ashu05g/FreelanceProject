@@ -1,0 +1,38 @@
+﻿@model IEnumerable<freelancerPlatform.Models.Service>
+
+@{
+    ViewBag.Title = "Home";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Home</h2>
+@if (!Model.Any())
+{
+    <p>We don't have any Services yet.</p>
+}
+else
+{
+
+    <div class="container">
+        <div class="row">
+
+            @foreach (var service in Model)
+            {
+                <div class="col-lg-3">
+                    <div class="card text-white" style="width: 20rem; background-color:white; border:solid 2px white; border-radius:30px;margin-top:10px">
+                        <div class="card-img-overlay">
+                            <img src="@Url.Content("~/Content/images/photoshop.jpg")" class="card-img-top" alt="..." height="160vw" width="100%" style="overflow: auto; border-radius:30px">
+                            <div style="padding:1vw">
+                                <h5 class="card-title" style="color:crimson!important">
+                                    @Html.ActionLink(service.ServiceName, "Home", "Customers", new { id = service.SerId }, null)
+                                </h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+              
+
+            }
+        </div>
+    </div>
+}

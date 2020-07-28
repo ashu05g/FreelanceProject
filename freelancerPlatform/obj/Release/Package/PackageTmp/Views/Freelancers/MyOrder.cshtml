@@ -1,0 +1,127 @@
+﻿@model IEnumerable<freelancerPlatform.Models.Order>
+@{
+    ViewBag.Title = "MyOrder";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>My Orders</h2>
+
+
+<h3>Pending Orders</h3>
+<div class="container">
+    @foreach (var order in Model)
+    {
+
+        var freelancer = order.Freelancer;
+        var sps = order.Specialisation;
+
+
+        if (order.Status == "pending")
+        {
+            <div class="col-lg-4" style="border: 1px solid ghostwhite ; border-radius:10px; padding:5px;">
+                <img src="@Url.Content(sps.Image)" class="card-img-top" alt="..." height="160vw" width="100%" style="overflow: auto; border-radius:30px">
+                <div style="padding:1vw">
+                    <h5 class="card-title" style="color:crimson!important">
+                        @Html.ActionLink(freelancer.FullName, "Details", "Customers", new { id = sps.Id }, new { @style = "color:#3D0781;font-weight:bold;font-size:20px" })
+                    </h5>
+
+                    <p>@sps.Name</p>
+                    <p>@sps.About</p>
+                    <hr />
+
+                    <p>Description: @order.Description</p>
+
+                    <p> Status :@order.Status</p>
+                    <p style="text-align:right">Price: &#8377; @sps.Price</p>
+                    <hr />
+                    <button class=" btn btn-sm btn-success" onclick="location.href='@Url.Action("OrderResponse", "Freelancers",new { id = order.OId,status="accept" })'">Accept</button>
+                    <button class=" btn btn-sm btn-danger" onclick="location.href='@Url.Action("OrderResponse", "Freelancers",new { id = order.OId,status="decline" })'" >Decline</button>
+                    
+                </div>
+            </div>
+        }
+    }
+</div>
+<br />
+<h3>Current Orders</h3>
+<div class="container">
+    @foreach (var order in Model)
+                {
+
+                    var freelancer = order.Freelancer;
+                    var sps = order.Specialisation;
+                    var customer = order.Customer;
+
+
+                    if (order.Status == "Accepted"  || order.Status=="completed")
+                    {
+            <div class="col-lg-4" style="border: 1px solid ghostwhite ; border-radius:10px; padding:5px;">
+                <img src="@Url.Content(sps.Image)" class="card-img-top" alt="..." height="160vw" width="100%" style="overflow: auto; border-radius:30px">
+                <div style="padding:1vw">
+                    <h5 class="card-title" style="color:crimson!important">
+                        @Html.ActionLink(freelancer.FullName, "Details", "Customers", new { id = sps.Id }, new { @style = "color:#3D0781;font-weight:bold;font-size:20px" })
+                    </h5>
+
+                    <p>@sps.Name</p>
+                    <p>@sps.About</p>
+                    <hr />
+
+                    <p>Description: @order.Description</p>
+
+                    <p> Status : @order.Status</p>
+
+                    <p style="text-align:right">Price: &#8377; @sps.Price</p>
+                    <hr />
+                    <h4>Hey! You Have to Contact  @customer.FullName at:</h4>
+                    <p>Email:  @customer.Email </p>
+                    <p>Phone:  @customer.Phone</p>
+                    @if (order.Status == "Accepted")
+                    {
+                        <hr />
+                        <button class=" btn btn-lg btn-success" onclick="location.href='@Url.Action("OrderResponse", "Freelancers",new { id = order.OId,status="completed" })'">Project Completed!</button>
+                    }
+                    @if (order.Status == "completed")
+                    {
+                        <hr />
+                        <h4>Waiting for Payment.</h4>
+                    }
+                </div>
+            </div>
+        }
+    }
+</div>
+<br />
+<h3>Past Completed Projects</h3>
+<div class="container">
+    @foreach (var order in Model)
+    {
+
+        var freelancer = order.Freelancer;
+        var sps = order.Specialisation;
+
+
+        if (order.Status == "paid")
+        {
+            <div class="col-lg-4" style="border: 1px solid ghostwhite ; border-radius:10px; padding:5px;">
+                <img src="@Url.Content(sps.Image)" class="card-img-top" alt="..." height="160vw" width="100%" style="overflow: auto; border-radius:30px">
+                <div style="padding:1vw">
+                    <h5 class="card-title" style="color:crimson!important">
+                        @Html.ActionLink(freelancer.FullName, "Details", "Customers", new { id = sps.Id }, new { @style = "color:#3D0781;font-weight:bold;font-size:20px" })
+                    </h5>
+
+                    <p>@sps.Name</p>
+                    <p>@sps.About</p>
+                    <hr />
+
+                    <p>Description: @order.Description</p>
+
+                    <p> Status :@order.Status</p>
+                    <p style="text-align:right">Price: &#8377; @sps.Price</p>
+                    <hr />
+
+                </div>
+            </div>
+        }
+    }
+</div>
+

@@ -1,0 +1,51 @@
+﻿
+@model freelancerPlatform.Models.Customer
+
+@{
+    ViewBag.Title = "My Profile";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>My Profile</h2>
+<br />
+
+
+<button class="btn btn-success" onclick="location.href='@Url.Action("Modify", "Customers",new {id=Model.CId })'" style="margin-bottom:20px">Modify Details</button>
+
+
+<div class="container">
+    <div class="col-lg-5" style="border:1px solid ghostwhite">
+        <img src="@Url.Content(Model.Image)" alt="..." height="200vw" width="200vw" style="overflow: auto; border-radius:50px;margin-top:10px">
+
+        <h2 style="font-weight:bold">@Model.FullName</h2>
+
+        <div class="row">
+
+            <div class="col-lg-6"><p>From</p></div>
+            <div class="col-lg-5"><p style="font-weight:bold">@Model.City</p></div>
+            <div class="col-lg-1"></div>
+
+        </div>
+        <div class="row">
+
+            <div class="col-lg-6"><p>Phone Number</p></div>
+            <div class="col-lg-5"> <p style="font-weight:bold">@Model.Phone</p></div>
+            <div class="col-lg-1"></div>
+
+        </div>
+        <div class="row">
+
+            <div class="col-lg-6"><p>Email</p></div>
+            <div class="col-lg-5"><p style="font-weight:bold">@Model.Email</p></div>
+            <div class="col-lg-1"></div>
+
+        </div>
+        <hr />
+        
+    </div>
+   
+</div>
+
+
+
+
+

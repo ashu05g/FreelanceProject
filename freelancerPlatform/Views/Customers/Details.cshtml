@@ -1,0 +1,81 @@
+﻿@model IEnumerable<freelancerPlatform.Models.Freelancer>
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@foreach (var freelancer in Model)
+{
+    foreach (var sps in freelancer.Specialisations)
+    {
+        if (sps.Id == ViewBag.sid)
+        {
+            <h2 style="font-weight:bold">@sps.About</h2>
+            <h4>
+                <img src="@Url.Content(freelancer.Image)" alt="..." height="30vw" width="30vw" style="overflow: auto; border-radius:50px">
+
+                @Html.ActionLink(freelancer.FullName, "Freelancers", "Customers", new { id = freelancer.FId }, null)
+
+            </h4>
+            <div class="container">
+                <div class="col-lg-8">
+                    <img src="@Url.Content(sps.Image)" class="card-img-top" alt="..." height="360vw" width="90%" style="overflow: auto; border-radius:10px">
+                    <br />
+                    <h2 style="font-weight:bold">About This Gig</h2>
+                    <p>@sps.Description</p>
+                    <br />
+                    <h2 style="font-weight:bold">About This Freelencer</h2>
+
+                    <img src="@Url.Content(freelancer.Image)" alt="..." height="60vw" width="60vw" style="overflow: auto; border-radius:50px">
+
+                    @Html.ActionLink(freelancer.FullName, "Freelancers", "Customers", new { id = freelancer.FId }, null)
+                <div class="row" style="border:2px solid black">
+                    <div class="col-lg-3">
+                        <p>From</p>
+                        <p style="font-weight:bold">@freelancer.City</p>
+                    </div>
+                    <div class="col-lg-1"></div>
+                    <div class="col-lg-7">
+                        <p>About Me:</p>
+                        <p style="font-weight:bold">@freelancer.About</p>
+                    </div>
+                    <div class="col-lg-1"></div>
+                </div>
+
+                </div>
+                <div class="col-lg-4" style="position: sticky;top: 70px;">
+
+                    <div class="card text-white" style="width:100%; background-color:ghostwhite; border:solid 2px white; border-radius:5px; color:black; padding-left:3vw;">
+                        @using (Html.BeginForm("Orders", "Customers", FormMethod.Post))
+                        {
+                            <h3 style="font-weight:bold">@sps.Name</h3><br />
+                            <p>" @sps.About "</p><br />
+                            <p>Time Requried(in days): <em>@sps.Days</em></p>
+                            <p>Price: <em>&#8377; @sps.Price</em></p><br />
+
+
+                            <textarea id="description" name="description" placeholder="Description about order"></textarea>
+                            <input id="SId"
+                                   name="SId"
+                                   type="hidden"
+                                   value=@sps.Id /><input id="FId"
+       name="FId"
+       type="hidden"
+       value=@freelancer.FId />
+                            <br />
+                            <input type="submit" class="btn btn-success" style="margin-bottom:2vw;" value="Order Now" />
+                            <br />
+                        }
+                    </div>
+
+
+
+
+                </div>
+            </div>
+        }
+    }
+
+}

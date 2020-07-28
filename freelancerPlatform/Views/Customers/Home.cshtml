@@ -1,0 +1,62 @@
+﻿
+@model freelancerPlatform.Models.FSSViewModel
+
+
+@{
+    ViewBag.Title = "Freelancers";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Freelancers</h2>
+@if (!Model.Specialisations.Any())
+ {
+    
+    <p>We don't have any Freelancers yet.</p>
+    <p>@Model.Service.ServiceName</p>
+ }
+ else
+ {
+    
+            
+        <div class="container">
+            <div class="row">
+                
+                @foreach (var sps in Model.Specialisations)
+                {
+                    
+                    <div class="col-lg-3">
+                        <div class="card text-white" style="width: 25rem; background-color: cadetblue; border:solid 2px white; border-radius:30px">
+                            <div class="card-img-overlay">
+
+
+
+                                @foreach (var freelancer in Model.Freelancers)
+                                {
+                                    if (freelancer.FId == sps.FId)
+                                    {
+
+                                        <img src="@Url.Content(sps.Image)" class="card-img-top" alt="..." height="160vw" width="100%" style="overflow: auto; border-radius:30px">
+                                        <div style="padding:1vw">
+                                            <h5 class="card-title" style="color:crimson!important">
+                                                @Html.ActionLink(freelancer.FullName, "Details", "Customers", new { id = sps.Id }, new { @style = "color:#3D0781;font-weight:bold;font-size:20px" })
+                                            </h5>
+
+                                            <p>@sps.Name</p>
+                                            <p>@sps.About</p>
+                                            <hr />
+                                            <p style="text-align:right">Price: &#8377; @sps.Price</p>
+                                        </div>
+                                    }
+                                }
+
+
+                            </div>
+                        </div>
+
+                    </div>
+                }
+            </div>
+            </div>
+       
+}
+

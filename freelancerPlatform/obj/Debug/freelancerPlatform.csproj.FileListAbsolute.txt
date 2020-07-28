@@ -1,0 +1,493 @@
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.csprojAssemblyReference.cache
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\freelancerPlatform.dll.config
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\freelancerPlatform.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\freelancerPlatform.pdb
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\csc.exe
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\csc.exe.config
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\csc.rsp
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\csi.exe
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\csi.exe.config
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\csi.rsp
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\System.AppContext.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Console.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\vbc.exe
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\vbc.exe.config
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\vbc.rsp
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\Antlr3.Runtime.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\EntityFramework.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\Newtonsoft.Json.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\Owin.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\System.Web.Helpers.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\System.Web.Mvc.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\System.Web.Optimization.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\System.Web.Razor.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\System.Web.WebPages.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\WebGrease.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\System.Web.Helpers.xml
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\System.Web.Mvc.xml
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\System.Web.Optimization.xml
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\System.Web.Razor.xml
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\System.Web.WebPages.xml
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\Newtonsoft.Json.xml
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\Antlr3.Runtime.pdb
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\EntityFramework.xml
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.xml
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.xml
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.csproj.CopyComplete
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.dll
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.pdb
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.InitialModel.resources
+C:\Users\User\source\repos\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.csproj.GenerateResource.cache
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\freelancerPlatform.dll.config
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\freelancerPlatform.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\freelancerPlatform.pdb
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\csc.exe
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\csi.exe
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\EntityFramework.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\Owin.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\WebGrease.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\EntityFramework.xml
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.xml
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.InitialModel.resources
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.csproj.GenerateResource.cache
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.csproj.CopyComplete
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.dll
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.pdb
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.Initial2.resources
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations._3tables.resources
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations._3tables1.resources
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations._4Model.resources
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations._4Model1.resources
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.addspecialisation.resources
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.addspecialisation1.resources
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.addspecialisation2.resources
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.addspecialisation3.resources
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.addspecialisation4.resources
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.addspecialisation5.resources
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.addspeci.resources
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.imagesfn.resources
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.imagesfn1.resources
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.imagesfn2.resources
+C:\Users\User\Desktop\clg\sem 5\WDDN Project\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.imagesfn3.resources
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\freelancerPlatform.dll.config
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\freelancerPlatform.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\freelancerPlatform.pdb
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\csc.exe
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\csc.exe.config
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\csc.rsp
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\csi.exe
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\csi.exe.config
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\csi.rsp
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\System.AppContext.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Console.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\System.IO.Compression.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\System.IO.Pipes.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Security.Claims.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\System.ValueTuple.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\vbc.exe
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\vbc.exe.config
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\vbc.rsp
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\VBCSCompiler.exe
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\Antlr3.Runtime.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\EntityFramework.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\EntityFramework.SqlServer.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\Newtonsoft.Json.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\Owin.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\System.Web.Helpers.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\System.Web.Mvc.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\System.Web.Optimization.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\System.Web.Razor.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\System.Web.WebPages.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\System.Web.WebPages.Razor.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\WebGrease.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\System.Web.Helpers.xml
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\System.Web.Mvc.xml
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\System.Web.Optimization.xml
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\System.Web.Razor.xml
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\System.Web.WebPages.xml
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\System.Web.WebPages.Razor.xml
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\Newtonsoft.Json.xml
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\Antlr3.Runtime.pdb
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\EntityFramework.xml
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\EntityFramework.SqlServer.xml
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.xml
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.xml
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.InitialModel.resources
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.Initial2.resources
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations._3tables.resources
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations._3tables1.resources
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations._4Model.resources
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations._4Model1.resources
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.addspecialisation.resources
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.addspecialisation1.resources
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.addspecialisation2.resources
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.addspecialisation3.resources
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.addspecialisation4.resources
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.addspecialisation5.resources
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.addspeci.resources
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.imagesfn.resources
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.imagesfn1.resources
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.imagesfn2.resources
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.imagesfn3.resources
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.csproj.GenerateResource.cache
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.csproj.CoreCompileInputs.cache
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.csproj.CopyComplete
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.dll
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.pdb
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.orderhistory.resources
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.orderhistory1.resources
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.orderhistory2.resources
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.orderhistory3.resources
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.orderhistory4.resources
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.orderhistory5.resources
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.orderhistory6.resources
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.csprojAssemblyReference.cache
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.orderagain.resources
+C:\Users\NIMISHA\Downloads\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.orderagain1.resources
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\freelancerPlatform.dll.config
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\freelancerPlatform.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\freelancerPlatform.pdb
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\csc.exe
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\csi.exe
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\EntityFramework.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\Owin.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\WebGrease.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\EntityFramework.xml
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.xml
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.csprojAssemblyReference.cache
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.InitialModel.resources
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.Initial2.resources
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations._3tables.resources
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations._3tables1.resources
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations._4Model.resources
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations._4Model1.resources
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.addspecialisation.resources
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.addspecialisation1.resources
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.addspecialisation2.resources
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.addspecialisation3.resources
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.addspecialisation4.resources
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.addspecialisation5.resources
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.addspeci.resources
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.imagesfn.resources
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.imagesfn1.resources
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.imagesfn2.resources
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.imagesfn3.resources
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.orderhistory.resources
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.orderhistory1.resources
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.orderhistory2.resources
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.orderhistory3.resources
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.orderhistory4.resources
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.orderhistory5.resources
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.orderhistory6.resources
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.orderagain.resources
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.Migrations.orderagain1.resources
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.csproj.GenerateResource.cache
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.csproj.CopyComplete
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.dll
+C:\Users\User\Desktop\clg\sem 5\freelancerPlatform\freelancerPlatform\obj\Debug\freelancerPlatform.pdb
