@@ -22,3 +22,17 @@ Once the user’s project request is accepted , It goes under current request .T
 # Contributer Information:
 I.Ashutosh Gupta
 II.Nimisha Jain
+
+
+# Screenshots:
+<img width="948" alt="Capture" src="https://github.com/user-attachments/assets/208c0271-4190-46c2-89f3-d878e61bcb1d">
+
+<img width="948" alt="Capture2" src="https://github.com/user-attachments/assets/e2f72297-bd51-47e6-a78f-3e21db0e8651">
+
+<img width="948" alt="3" src="https://github.com/user-attachments/assets/f1012c55-f4ff-4802-b5c0-6f6544faa065">
+
+<img width="959" alt="4" src="https://github.com/user-attachments/assets/e0ff4e03-40ef-4af0-8b76-554a1abb1149">
+
+<img width="960" alt="5" src="https://github.com/user-attachments/assets/4ae71553-4252-42d5-8ce9-1ee56290995b">
+
+<img width="697" alt="6" src="https://github.com/user-attachments/assets/c37dc2fd-9099-48b7-ac7b-7508724b8044">
